@@ -21,7 +21,8 @@
 
   ### Development Philosophy
   <p>
-    <img src="https://img.shields.io/badge/TDD-E34F26?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/Test--Driven%20Development-E34F26?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/Domain--Driven%20Design-8B5CF6?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/Clean%20Architecture-3178C6?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/Readable%20Code-22C55E?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/Vibe%20Coding-06B6D4?style=flat&logoColor=white" />
