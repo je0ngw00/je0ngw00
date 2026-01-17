@@ -47,5 +47,4 @@
   ---
 
   ## 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=je0ngw00&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=je0ngw00&theme=radical)
