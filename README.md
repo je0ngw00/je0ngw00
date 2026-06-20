@@ -48,4 +48,3 @@ Outside of work, I explore how AI coding agents work under the hood — harness 
 ## 📊 GitHub Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=je0ngw00&theme=radical)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=je0ngw00&theme=radical)
