@@ -47,7 +47,5 @@ Outside of work, I explore how AI coding agents work under the hood — harness 
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=je0ngw00&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je0ngw00&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=je0ngw00&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=je0ngw00&theme=radical)
